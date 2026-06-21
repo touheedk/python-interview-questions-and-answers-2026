@@ -63,7 +63,7 @@ Every question has a full written answer with working code on the linked page. T
 
 ## Difficulty Key
 
-🟢 Easy — should know cold  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
+🟢 Easy — expected in every interview  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
 
 ---
 
