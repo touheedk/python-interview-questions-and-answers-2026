@@ -61,6 +61,12 @@ Every question has a full written answer with working code on the linked page. T
 
 ---
 
+## Difficulty Key
+
+🟢 Easy — should know cold  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
+
+---
+
 ## Fundamentals
 
 The questions that sort out candidates who actually understand Python from those who just use it.
@@ -1192,12 +1198,6 @@ pytest fixtures and mocking are table stakes. Know how to mock correctly (and wh
 - 🔴 [How do you mock an async function or coroutine?](https://interview-prep.coderboi.com/python/testing/mocking#q-async-mock)
 
 [Full answers with code examples →](https://interview-prep.coderboi.com/python/testing/mocking)
-
----
-
-## Difficulty Key
-
-🟢 Easy — should know cold  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
 
 ---
 
