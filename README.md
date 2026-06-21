@@ -4,7 +4,8 @@ Questions, answers, and code examples for Python interviews — from junior to s
 
 795 questions · 51 subtopics
 
-Full answers and code examples: [interview-prep.coderboi.com/python](https://interview-prep.coderboi.com/python)
+Full answers and code examples: [interview-prep.coderboi.com/python](https://interview-prep.coderboi.com/python)  
+Structured study roadmap: [interview-prep.coderboi.com/roadmap/python](https://interview-prep.coderboi.com/roadmap/python)
 
 ---
 
